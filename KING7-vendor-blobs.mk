@@ -305,7 +305,6 @@ PRODUCT_COPY_FILES += \
     vendor/PPTV/KING7/proprietary/xbin:system/xbin \
     vendor/PPTV/KING7/proprietary/xbin/mnld:system/xbin/mnld \
     vendor/PPTV/KING7/proprietary/xbin/BGW:system/xbin/BGW \
-    vendor/PPTV/KING7/proprietary/proprietary-blobs.txt:system/proprietary-blobs.txt \
     vendor/PPTV/KING7/proprietary/usr:system/usr \
     vendor/PPTV/KING7/proprietary/usr/keylayout:system/usr/keylayout \
     vendor/PPTV/KING7/proprietary/usr/keylayout/sbk-kpd.kl:system/usr/keylayout/sbk-kpd.kl \
